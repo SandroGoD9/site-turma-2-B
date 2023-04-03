@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    font-family: 'Poppins', sans-serif;
+}
+
+.cabeçalho{
+    background-color:  #020203;
+    color: rgb(253, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+} 
+.logo{
+    width: 30%;
+}
+.listaitem{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.escola-imagem{
+    width: 30%;
+}
+.escola{
+    background-image: linear-gradient(#020203,#1a51c8);
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-div{
+    width: 35%;
+}
+.titulo{
+    padding: 24px 0;
+}
+.estudantes2-imagem{
+    width: 260px;
+}
